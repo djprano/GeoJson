@@ -23,6 +23,7 @@ $(document).ready(function() {
             "coordinates": [-3.8215, 40.2838]
 	}
     };
+    
 
     // Define a function to show the name property
     function popUpName(feature, layer) {
